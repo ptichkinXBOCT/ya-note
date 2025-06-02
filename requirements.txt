@@ -7,3 +7,4 @@ pytest-django==4.9.0
 pytest-lazy-fixtures==1.1.1
 pytest-subtests==0.13.1
 pytils==0.4.1
+pytest-django==4.8.0
